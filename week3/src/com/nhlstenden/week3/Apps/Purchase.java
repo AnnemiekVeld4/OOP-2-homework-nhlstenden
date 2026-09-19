@@ -1,4 +1,6 @@
-package com.nhlstenden.week3;
+package com.nhlstenden.week3.Apps;
+
+import com.nhlstenden.week3.Users.*;
 
 public class Purchase
 {

@@ -1,4 +1,7 @@
-package com.nhlstenden.week3;
+package com.nhlstenden.week3.Apps;
+
+import com.nhlstenden.week3.DownloadNotAllowedException;
+import com.nhlstenden.week3.Users.User;
 
 import java.util.ArrayList;
 import java.util.List;

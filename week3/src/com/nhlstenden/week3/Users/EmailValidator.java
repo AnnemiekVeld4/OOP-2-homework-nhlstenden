@@ -1,4 +1,4 @@
-package com.nhlstenden.week3;
+package com.nhlstenden.week3.Users;
 
 public class EmailValidator
 {

@@ -1,4 +1,4 @@
-package com.nhlstenden.week3;
+package com.nhlstenden.week3.Users;
 
 import java.time.LocalDate;
 import java.time.Period;

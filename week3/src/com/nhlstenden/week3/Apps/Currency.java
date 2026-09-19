@@ -1,4 +1,4 @@
-package com.nhlstenden.week3;
+package com.nhlstenden.week3.Apps;
 
 public enum Currency
 {
